@@ -1,0 +1,7 @@
+#webstorm
+.idea/
+package-lock.json
+.DS_Store
+
+#npm
+node_modules/

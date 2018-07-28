@@ -1,0 +1,803 @@
+{
+    "tours": [
+        {
+            "idx": 1721,
+            "title": "Oeuvres du Louvre",
+            "pois_idx": [
+                18131,
+                18132,
+                18133,
+                18134,
+                18135
+            ]
+        },
+        {
+            "idx": 1720,
+            "title": "Musées de Paris",
+            "pois_idx": [
+                18126,
+                18127,
+                18128,
+                18129,
+                18130,
+                18515
+            ]
+        },
+        {
+            "idx": 1765,
+            "title": "Parcours geofencing Smartapps",
+            "pois_idx": [
+                18460,
+                18461,
+                18462,
+                18463,
+                18467
+            ]
+        }
+    ],
+    "pois": [
+        {
+            "idx": 18131,
+            "cartel_number": "7",
+            "title": "La Joconde",
+            "subtitle": "Leonardo Da Vinci",
+            "short_text": "La Joconde, ou Portrait de Mona Lisa, est un tableau de l\u0027artiste italien Léonard de Vinci, réalisé entre 1503 et 1506, qui représente un portrait mi-corps, probablement celui de la florentine Lisa Gherardini, épouse de Francesco del Giocondo. Acquise par François Ier, cette peinture à l\u0027huile sur panneau de bois de peuplier de 77 × 53 cm est exposée au musée du Louvre à Paris. La Joconde est l\u0027un des rares tableaux attribués de façon certaine à Léonard de Vinci.",
+            "long_text": "\u003Cp\u003E\r\n\t \u003Cspan style=\u0022background-color: initial;\u0022\u003ELa Joconde est devenue un tableau éminemment célèbre car, depuis sa réalisation, nombre d\u0027artistes l\u0027ont prise comme référence. À l\u0027époque romantique, les artistes ont été fascinés par ce tableau et ont contribué à développer le mythe qui l\u0027entoure, en faisant de ce tableau l’une des œuvres d\u0027art les plus célèbres du monde, si ce n\u0027est la plus célèbre : elle est en tout cas considérée comme l\u0027une des représentations d\u0027un visage féminin les plus célèbres au monde. Au xxie siècle, elle est devenue l\u0027objet d\u0027art le plus visité au monde, juste devant le diamant Hope, avec 20 000 visiteurs qui viennent l\u0027admirer et la photographier quotidiennement.\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "player_type": 0,
+            "medias_roles": [
+                {
+                    "media_idx": 63510,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63697,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63511,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63511,
+                    "role": 25
+                },
+                {
+                    "media_idx": 63694,
+                    "role": 25
+                },
+                {
+                    "media_idx": 63693,
+                    "role": 25
+                }
+            ]
+        },
+        {
+            "idx": 18132,
+            "cartel_number": "8",
+            "title": "La Victoire de Samothrace",
+            "subtitle": "Auteur inconnu",
+            "long_text": "\u003Cp\u003E\r\n\t\u003Cspan style=\u0022background-color: initial;\u0022\u003EL\u0027inscription de dédicace est perdue, et nous ne possédons aucun témoignage antique sur la statue. Celle-ci ne peut donc être datée qu\u0027en fonction de son style, et par conséquent nul ne sait quelle victoire historique serait commémorée par ce monument. Plusieurs hypothèses ont été proposées.\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t        On a d\u0027abord considéré que les monnaies de Démétrios Poliorcète représentaient le monument lui-même ; le roi l\u0027aurait édifié en commémoration de sa victoire navale. À ce stade, la statue est attribuée à un sculpteur de la fin du ive siècle av. J.-C. ou du début du iiie siècle av. J.-C., par exemple un élève de Scopas, qui a travaillé à Samothrace. Cependant, Samothrace est alors sous le contrôle de Lysimaque, ennemi de Démétrios : il paraît peu probable que ce dernier ait pu y dédier un monument. Une autre hypothèse fait de la statue une offrande votive d\u0027Antigone II Gonatas après sa victoire contre les Ptolémées à Cos, dans les années -250 On sait en effet qu\u0027Antigone consacre une statue à Délos : il aurait pu en consacrer une autre à Samothrace, sanctuaire traditionnellement sous protection des Antigonides.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t        L\u0027hypothèse le plus souvent retenue a été avancée en 1931 par un savant allemand. Il a rapproché de la base de la statue un petit fragment d\u0027inscription en marbre de Lartos, trouvé par Champoiseau en 1891 dans l\u0027édifice de la Victoire. Sur ce fragment est gravé la fin d\u0027un nom en grec ancien …Σ ΡΟΔΙΟΣ \/ …S RHODIOS », qui aurait pu être celui de Pythocritos de Rhodes, nom qui se retrouve sur plusieurs bases de statue en bronze à Rhodes, où ce sculpteur était actif entre -200 et -165. À cette époque, de nombreuses batailles navales opposant d\u0027un côté Philippe V, souverain de Macédoine, et Antiochos III, souverain d\u0027Antioche, à Eumène II, souverain de Pergame, allié aux Romains et aux Rhodiens de l\u0027autre. Ces derniers l\u0027emportent après les batailles de Sidé et de Myonnésos, toutes deux en -190. Le monument de la Victoire serait donc une dédicace aux Grands Dieux de Samothrace, consécutive à ces batailles. Cependant, l\u0027appartenance du fragment à la base de la Victoire est impossible, car la présence d\u0027une cuvette d\u0027encastrement de petite taille interdit d\u0027y voir autre chose qu\u0027une base de statuette. Le sculpteur Pythocritos de Rhodes n\u0027est donc pas l\u0027auteur de la Victoire de Samothrace.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t        Une autre hypothèse a été proposée par le professeur Jean Richer qui a fait observer que le Navire sur lequel la statue est placée représente la constellation du Navire Argo : la proue de navire et la statue avaient été volontairement placées en biais dans la Fontaine de la Victoire où l\u0027ensemble se dressait dans l\u0027antiquité, au sein de l\u0027important Sanctuaire des Grands Dieux de Samothrace, de telle sorte que la Victoire regardait dans la direction du nord : selon Jean Richer, cette direction montre le chemin qui conduit à la porte des dieux identifiée au mont Hémos, et fait ainsi allusion à une victoire toute spirituelle ; car, dans cette orientation, l\u0027élan et le regard de la statue aboutissaient exactement à l\u0027angle nord-est de l’Anaktoron, siège des Petits Mystères, où l\u0027on donnait l\u0027initiation. Cet angle était ainsi le plus sacré du bâtiment.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t        La base en forme de navire a sûrement été réalisée à Rhodes, où on a trouvé des représentations de bateaux, en particulier un fragment de base en forme de proue de navire, dédiée dans le temple d\u0027Athéna sur l\u0027acropole de Lindos de Rhodes. Elle est faite de trois assises superposées de blocs en marbre de Lartos. Il existait donc bien à Rhodes des ateliers spécialisés dans ce genre de travail. Mais on ne trouve pas dans cette île de statue comparable en virtuosité à celle de la Victoire, qui a certainement été sculptée par un artiste venu d\u0027ailleurs. C\u0027est pourquoi la Victoire a pu être comparée à des personnages de la frise du Grand Autel de Pergame (vers -180--160). Cette frise en très haut relief représente une Gigantomachie, c\u0027est-à-dire le combat des dieux grecs contre les Géants monstrueux. Le dessin des ailes déployées des Géants, les attitudes énergiques et les draperies mouvementées des déesses ressemblent beaucoup à la statue de la Victoire. Il a même été suggéré que les deux œuvres auraient pu être créées par un même artiste.\r\n\u003C\/p\u003E",
+            "player_type": 1,
+            "medias_roles": [
+                {
+                    "media_idx": 63512,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63513,
+                    "role": 15
+                }
+            ]
+        },
+        {
+            "idx": 18133,
+            "cartel_number": "9",
+            "title": "La Vénus de Milo",
+            "subtitle": "Alexandros d\u0027Antioche",
+            "short_text": "La Vénus de Milo est une célèbre sculpture grecque de la fin de l\u0027époque hellénistique (vers 130-100 av. J.-C.) qui pourrait représenter la déesse Aphrodite (Vénus dans la mythologie romaine). Découverte en 1820 sur l\u0027île de Milos (Milo étant une forme ancienne du nom de cette île), d\u0027où son nom, elle est actuellement conservée au musée du Louvre, à Paris.",
+            "long_text": "\u003Cp\u003E\r\n\t         Le buste de la statue est mis au jour le 8 avril 1820 à Milos, une île de la mer Égée, faisant alors partie de l\u0027Empire ottoman, par un paysan nommé Yorgos Kentrotas à la recherche de pierres pour bâtir un mur autour de son champ. Par hasard, un élève officier de marine français, Olivier Voutier, assiste à la découverte. Passionné par l\u0027archéologie, alors une discipline récente, il incite le paysan à continuer de creuser. Apparaissent alors la partie inférieure de la statue et quelques fragments appartenant de toute évidence à la statue, comme le nœud du chignon. En l\u0027état, le buste n\u0027a déjà plus ses bras, comme en témoigne le dessin exécuté sur place par Voutier. Celui-ci prévient Louis Brest, vice-consul de France à Milo, pendant que le paysan, poursuivant sur sa lancée, met au jour d’autres fragments, dont deux piliers hermaïques, deux blocs inscrits, qui seront ensuite rejoints par un troisième, une main mutilée tenant une grenade (considérée par le vicomte de Marcellus comme d’un travail trop rudimentaire pour appartenir à la statue) et des morceaux de bras.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t         Voutier fait alors pression sur le consul pour que l\u0027État français achète la statue. De son côté, Jules Dumont d\u0027Urville, alors enseigne du vaisseau La Chevrette, dirigé par le capitaine et hydrographe Pierre-Henry Gauttier du Parc, a également vu la statue et alerte le marquis de Rivière, ambassadeur de France auprès de la Sublime Porte. Celui-ci dépêche sur place un secrétaire d\u0027ambassade, le comte de Marcellus, qui arrive en rade de Milo au moment où la statue est en train d\u0027embarquer sur un navire à destination de Constantinople pour le compte d\u0027un haut dignitaire turc, le drogman de l\u0027arsenal, Nicolas Marousi.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t         Au terme de tractations diverses, la statue est achetée en septembre 1820 pour le compte du marquis de Rivière, et ramenée en France en pleine propriété. Durant son voyage, la statue fera un étape au Château d\u0027Audour, à Dompierre-les-Ormes dans la propriété du comte de Marcellus.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t         Un moulage en plâtre de la statue, présentée comme \u0022la troisième reproduction de la vraie sculpture\u0022 grecque, offert par Louis XVIII au comte de Marcellus en 1822 pour le remercier d\u0027avoir assuré son transport en France est conservée, sur un socle gravé des mots Venus Victrix dans une salle au décor néo-classique du château Marcellus vers Marmande (47), qui est mis en vente pas ses trois co-propriétaires (reprod. coul. dans \u0022Sud-Ouest Mag\u0022 n°213 - 30\/04\/2016, p.22).\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t         Le marquis de Rivière la fera offrir au roi Louis XVIII le 1er mars 1821, qui en fait aussitôt don au musée du Louvre. Comme toute œuvre endommagée, la Vénus entre dans l\u0027atelier de restauration du musée afin de subir l\u0027examen minutieux de son restaurateur en chef Bernard Lange. La rigueur d’analyse de ce dernier le conduit à écarter de ses projets de restauration toute conception fantaisiste. Il pense ainsi retrouver le mouvement initial de bras de la Vénus et envisage de recréer les parties manquantes selon les préceptes de restauration en vigueur à cette époque. Contre toute attente, mais avec l’appui du roi, il est finalement décidé de la présenter dans l\u0027état où elle a été trouvée, sans ajout ou complément[réf. nécessaire]. Les seules restaurations sont celles de l\u0027extrémité du nez, de la lèvre inférieure, du gros orteil du pied droit et de quelques raccords dans l\u0027épaisseur de la draperie.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t \u003Cspan style=\u0022background-color: initial;\u0022\u003EUne polémique éclate dans les années 1890, quand une nouvelle tentative de restauration est entreprise : l\u0027autorité muséale confie à A. Miranoff, professeur à l\u0027Université de Moscou le soin de proposer un projet (cf. ci-contre). Il signale entre autres que deux cavités se trouvent présentes au niveau du dos de la déesse et suggère qu\u0027elles étaient présentes au moment de la découverte.\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "related_pois_idx": [
+                18131,
+                18132,
+                18134,
+                18135
+            ],
+            "player_type": 2,
+            "medias_roles": [
+                {
+                    "media_idx": 63514,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63515,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63732,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63514,
+                    "role": 25
+                },
+                {
+                    "media_idx": 63696,
+                    "role": 25
+                }
+            ]
+        },
+        {
+            "idx": 18134,
+            "cartel_number": "10",
+            "title": "La Liberté guidant le peuple",
+            "subtitle": "Eugène Delacroix",
+            "short_text": "La Liberté guidant le peuple est une huile sur toile d\u0027Eugène Delacroix réalisée en 1830, inspirée de la révolution des Trois Glorieuses qui s\u0027est passée en 1830. Présentée au public au Salon de Paris de 1831 sous le titre Scènes de barricades, l\u0027œuvre est ensuite exposée au musée du Luxembourg à partir de 1863 puis transférée au musée du Louvre en 1874 où elle fut l\u0027une des œuvres les plus fréquentées. L\u0027œuvre a été présentée dans l\u0027exposition La Galerie du temps au Louvre-Lens.\r\n\r\nPar son aspect allégorique et sa portée politique, elle a été fréquemment choisie comme symbole de la République française ou de la démocratie.",
+            "long_text": "\u003Cp\u003E\r\n\t\u003Cspan style=\u0022background-color: initial;\u0022\u003EL\u0027œuvre assez imposante fut réalisée entre les mois d\u0027octobre et de décembre 1830. La scène se passe à Paris, comme l\u0027indiquent les tours de la cathédrale Notre-Dame qui émergent des fumées au dernier plan. Une foule d\u0027émeutiers franchissent une barricade. Au premier plan, associés aux matériaux–- pavés et poutres – que forment cette barricade, les corps de soldats morts apparaissent tordus et comme désarticulés. L\u0027un gît nu. Un ouvrier ou un paysan blessé, foulard noué sur la tête, émerge des décombres, le corps et le regard tendus vers une femme du peuple, coiffée d\u0027un bonnet phrygien dont s\u0027échappent des boucles. Celle-ci est représentée en pied et occupe de fait la place principale. Elle brandit par la hampe un drapeau tricolore qui occupe l\u0027axe médian de la toile. Sa poitrine est en partie découverte. On distingue quatre autres personnages aux abords de la barricade : deux enfants des rues – l\u0027un coiffé d\u0027un béret brandissant des pistolets de cavalerie, la bouche ouverte sur un cri, l\u0027autre coiffé d\u0027un bonnet de police s\u0027agrippant au pavé – un homme coiffé d\u0027un haut-de-forme (qui laisse penser que c\u0027est un bourgeois) mais portant le pantalon et la ceinture des ouvriers, les genoux sur la barricade, et un ouvrier portant un béret, un sabre briquet à la main et sa banderole sur l\u0027épaule. Derrière, on peut voir un élève de l\u0027École polytechnique portant le traditionnel bicorne. Les principaux protagonistes s\u0027inscrivent dans un triangle dont le sommet est le drapeau. Les couleurs dominantes sont le bleu, le blanc et le rouge qui émergent des teintes grises et marron. La lumière semble provenir de l\u0027arrière-plan et la femme s\u0027avance vers nous en contre-jour.\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t      Les couleurs chaudes dominent les corps des émeutiers.\r\n\u003C\/p\u003E",
+            "player_type": 3,
+            "medias_roles": [
+                {
+                    "media_idx": 63520,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63553,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63521,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63734,
+                    "role": 25
+                }
+            ]
+        },
+        {
+            "idx": 18135,
+            "cartel_number": "11",
+            "title": "Le Radeau de la Méduse",
+            "subtitle": "Théodore Géricault",
+            "short_text": "Le Radeau de La Méduse est une peinture à l\u0027huile sur toile, réalisée entre 1818 et 1819 par le peintre et lithographe romantique français Théodore Géricault (1791-1824). Son titre initial, donné par Géricault lors de sa première présentation, est Scène d\u0027un naufrage. Ce tableau, de très grande dimension (491 cm de hauteur et 716 cm de largeur), représente un épisode tragique de l\u0027histoire de la marine française : le naufrage de la frégate Méduse, qui s\u0027échoue sur un banc de sable au large des côtes de l\u0027actuelle Mauritanie, le 2 juillet 1816. Au moins 147 personnes se maintiennent à la surface de l\u0027eau sur un radeau de fortune et seuls quinze embarquent le 17 juillet à bord de L’Argus, un bateau venu les secourir. Cinq personnes meurent peu après leur arrivée à Saint-Louis du Sénégal, après avoir enduré la faim, la déshydratation, la folie et même le cannibalisme. L’événement devient un scandale d\u0027ampleur internationale, en partie car un capitaine français servant la monarchie restaurée depuis peu est jugé responsable du désastre, en raison de son incompétence.",
+            "long_text": "\u003Cp\u003E\r\n\t\u003Cspan style=\u0022background-color: initial;\u0022\u003ELe Radeau de La Méduse présente une certaine continuité avec les courants picturaux antérieurs au romantisme, notamment dans le choix du sujet et le caractère dramatique de la représentation, mais rompt de manière nette avec l\u0027ordre et la quiétude de la peinture néoclassique. En choisissant de représenter cet épisode tragique pour sa première œuvre d\u0027importance, Géricault a conscience que le caractère récent du naufrage suscitera l\u0027intérêt du public et lui permettra de lancer sa jeune carrière. Cependant, l\u0027artiste s\u0027est également pris de fascination pour cet événement, et réalise ainsi d\u0027abondantes recherches préparatoires et plusieurs esquisses avant d\u0027entamer la création du tableau. Il rencontre en effet deux des survivants de la catastrophe, construit un modèle réduit très détaillé de la structure du radeau, et se rend même dans des morgues et des hôpitaux afin de voir de ses propres yeux la couleur et la texture de la peau des mourants.\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t      Ainsi que Géricault le pressent, le tableau provoque la controverse lors de sa première présentation à Paris, au salon de 1819 : certains s\u0027en font les ardents défenseurs, tandis que d\u0027autres le fustigent immédiatement. Peu après, l’œuvre est exposée à Londres, ce qui achève d\u0027établir la réputation du jeune peintre en Europe. Aujourd\u0027hui, elle compte parmi les œuvres les plus admirées du romantisme français, et son influence est perceptible dans les créations de peintres tels que Joseph William Turner, Eugène Delacroix, Gustave Courbet ou encore Édouard Manet. Le tableau, qui souffre d\u0027un assombrissement irréversible dû à un apprêt au bitume de Judée ou à une huile rendue trop siccative par un ajout abondant d\u0027oxyde de plomb et de cire, est conservé au musée du Louvre, qui l\u0027achète à un ami de l\u0027artiste peu après sa mort en 1824.\r\n\u003C\/p\u003E",
+            "related_pois_idx": [
+                18134
+            ],
+            "player_type": 4,
+            "medias_roles": [
+                {
+                    "media_idx": 63522,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63523,
+                    "role": 15
+                }
+            ]
+        },
+        {
+            "idx": 18126,
+            "cartel_number": "1",
+            "title": "Le musée du Louvre",
+            "short_text": "Le musée du Louvre est un musée d\u0027art et d\u0027antiquités situé au centre de Paris dans le palais du Louvre. Il est le plus grand des musées d\u0027art du monde par sa surface d\u0027exposition de 72 735 m². Ses collections comprennent près de 460 000 œuvres.",
+            "long_text": "\u003Cp\u003E\r\n\t                                           Le Louvre possède une longue histoire de conservation artistique et historique, depuis l\u0027Ancien Régime jusqu\u0027à nos jours. À la suite du départ de Louis XIV pour le château de Versailles à la fin du xviie siècle, on y entrepose une partie des collections royales de tableaux et de sculptures antiques. Après avoir durant un siècle hébergé plusieurs académies, dont celle de peinture et de sculpture, ainsi que divers artistes logés par le roi, l\u0027ancien palais royal est véritablement transformé sous la Révolution en « Muséum central des arts de la République ». Il ouvre en 1793 en exposant environ 660 œuvres, essentiellement issues des collections royales ou confisquées chez des nobles émigrés ou dans des églises. Par la suite les collections ne cesseront de s\u0027enrichir par des prises de guerre, acquisitions, mécénats, legs, donations, et découvertes archéologiques. \u003Ca href=\u0022poi:\/\/18127\u0022\u003ELien vers un POI\u003C\/a\u003E\r\n\u003C\/p\u003E",
+            "button_url": "media63690\/index.html",
+            "player_type": 0,
+            "medias_roles": [
+                {
+                    "media_idx": 63499,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63500,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63697,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63732,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63500,
+                    "role": 25
+                },
+                {
+                    "media_idx": 63691,
+                    "role": 25
+                },
+                {
+                    "media_idx": 63692,
+                    "role": 25
+                }
+            ]
+        },
+        {
+            "idx": 18127,
+            "cartel_number": "2",
+            "title": "Le musée d\u0027Orsay",
+            "subtitle": "7ème arrondissement",
+            "long_text": "\u003Cp\u003E\r\n\t\u003Cspan style=\u0022background-color: initial;\u0022\u003ELe musée d’Orsay est un musée national inauguré en 1986, situé dans le 7e arrondissement de Paris et installé, le long de la rive gauche de la Seine, dans l\u0027ancienne gare d\u0027Orsay construite par Victor Laloux de 1898 à 1900, réaménagée en musée, sur décision du Président de la République Valéry Giscard d\u0027Estaing. Ses collections présentent l\u0027art occidental de 1848 à 1914, dans toute sa diversité : peinture, sculpture, arts décoratifs, art graphique, photographie, architecture, etc. Il est l\u0027un des plus grands musées d\u0027Europe.\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t          Le musée possède la plus grande collection de peintures impressionnistes et post-impressionnistes au monde, avec près de 1 100 toiles2 au total sur plus de 3 450, et l\u0027on peut y voir des chefs-d’œuvre de la peinture et de la sculpture comme Le Déjeuner sur l\u0027herbe et l’Olympia d\u0027Édouard Manet, une épreuve de La Petite Danseuse de quatorze ans de Degas, L\u0027Origine du monde, Un enterrement à Ornans, L\u0027Atelier du peintre de Courbet, Les joueurs de cartes de Cézanne ou encore cinq tableaux de la Série des Cathédrales de Rouen de Monet et Bal du moulin de la Galette de Renoir.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t          Des expositions temporaires éclairent périodiquement l’œuvre d’un artiste, ou bien mettent en valeur un courant, un marchand, une question d’histoire de l’art. Un auditorium accueille des manifestations diversifiées, concerts, cinéma, théâtre d’ombres, conférences et colloques et des spectacles spécifiquement destinés à un jeune public.\r\n\u003C\/p\u003E",
+            "button_url": "https:\/\/www.youtube.com\/embed\/12L_HekmkMU",
+            "player_type": 1,
+            "medias_roles": [
+                {
+                    "media_idx": 63501,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63502,
+                    "role": 15
+                }
+            ]
+        },
+        {
+            "idx": 18128,
+            "cartel_number": "3",
+            "title": "Musée d\u0027Art Moderne",
+            "subtitle": "16ème arrondissement",
+            "short_text": "Le musée d\u0027art moderne de la ville de Paris ou MAMVP, situé au 11, avenue du Président-Wilson dans le 16e arrondissement de Paris, présente la collection municipale d\u0027art moderne et contemporain depuis le fauvisme, riche de plus de 10 000 œuvres, principalement axées sur les mouvements artistiques liés à la capitale et plus récemment sur la scène artistique européenne.\r\n\r\nIl occupe l\u0027aile Est du palais de Tokyo. L\u0027aile Ouest du palais, qui appartient à l\u0027État, est par ailleurs consacrée à la création contemporaine sous toutes ses formes.\r\n\r\nLe musée, inauguré en 1961, a rouvert le 2 février 2006, après une période de rénovation, avec une exposition consacrée à Pierre Bonnard.\r\n\r\nIl s\u0027agit d\u0027un des quatorze musées de la Ville de Paris gérés depuis le 1er janvier 2013 par l\u0027établissement public administratif Paris Musées.",
+            "long_text": "\u003Cp\u003E\r\n\t\u003Cspan style=\u0022background-color: initial;\u0022\u003EIl occupe l\u0027aile Est du palais de Tokyo. L\u0027aile Ouest du palais, qui appartient à l\u0027État, est par ailleurs consacrée à la création contemporaine sous toutes ses formes.\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t                  Le musée, inauguré en 1961, a rouvert le 2 février 2006, après une période de rénovation, avec une exposition consacrée à Pierre Bonnard.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t                  Il s\u0027agit d\u0027un des quatorze musées de la Ville de Paris gérés depuis le 1er janvier 2013 par l\u0027établissement public administratif Paris Musées.\r\n\u003C\/p\u003E",
+            "related_pois_idx": [
+                18126,
+                18127,
+                18129,
+                18130
+            ],
+            "player_type": 2,
+            "medias_roles": [
+                {
+                    "media_idx": 63503,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63504,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63732,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63503,
+                    "role": 25
+                },
+                {
+                    "media_idx": 63695,
+                    "role": 25
+                }
+            ]
+        },
+        {
+            "idx": 18129,
+            "cartel_number": "4",
+            "title": "Le Petit Palais",
+            "subtitle": "8ème arrondissement",
+            "short_text": "Le Petit Palais, construit à l\u0027occasion de l\u0027Exposition universelle de 1900 par l\u0027architecte Charles Girault, abrite le musée des beaux-arts de la ville de Paris. Il est situé dans le 8e arrondissement de Paris, avenue Winston-Churchill, face au Grand Palais.\r\n\r\nIl s\u0027agit d\u0027un des quatorze musées de la ville de Paris gérés depuis le 1er janvier 2013 par l\u0027établissement public administratif Paris Musées.",
+            "long_text": "\u003Cp\u003E\r\n\t \u003Cspan style=\u0022background-color: initial;\u0022\u003ELe Petit Palais est organisé autour d\u0027un jardin semi-circulaire. Les lieux d\u0027exposition sont situés au premier étage, le rez-de-chaussée étant consacré à l\u0027origine aux bureaux et aux réserves.\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           La façade fait près de 150 m de long, centrée par un porche monumental surmonté d\u0027un dôme. Des colonnes ioniques à volutes en diagonales en ornent la face principale ainsi que le péristyle semi-circulaire de la cour intérieure. Le décor est complété par de nombreux bas-reliefs.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           Charles Girault avait conçu des espaces uniquement éclairés par la lumière naturelle, créant verrières, coupoles transparentes et larges baies.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           Les sculptures sur la façade sont :\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           La Ville de Paris protégeant les Arts du sculpteur Jean-Antoine Injalbert avec une femme assise tenant dans son bras gauche un navire symbolisant Paris et entourée par les Muses.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           Sur la droite, un groupe avec La Seine et ses affluents de Maurice Ferrary.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           Sur la gauche, le groupe Les Quatre Saisons de Louis Convers avec des jeunes femmes portant des gerbes de blé et des fruits.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           La façade du Musée royal de l’Afrique centrale de Tervuren, en Belgique, également dessinée par Charles Girault, reprendra en partie la composition et les motifs du Petit Palais.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           L\u0027architecture du Petit Palais ressemble très significativement à l\u0027Opéra de Saigon au Vietnam, ancienne capitale de l\u0027Indochine française et construit lui aussi en 1900.\r\n\u003C\/p\u003E",
+            "player_type": 3,
+            "medias_roles": [
+                {
+                    "media_idx": 63505,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63552,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63700,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63733,
+                    "role": 25
+                }
+            ]
+        },
+        {
+            "idx": 18130,
+            "cartel_number": "5",
+            "title": "Le Grand Palais",
+            "subtitle": "8ème arrondissement",
+            "short_text": "Le Grand Palais est un monument parisien situé en bordure des Champs-Élysées, face au Petit Palais, dont il est séparé par l\u0027avenue Winston-Churchill dans le 8e arrondissement. Ses 77 000 m2 abritent régulièrement salons et expositions prestigieuses.",
+            "long_text": "\u003Cp\u003E\r\n\t \u003Cspan style=\u0022background-color: initial;\u0022\u003ELe « Grand Palais des Beaux-Arts » est édifié à Paris à partir de 1897, pour l\u0027exposition universelle prévue du 15 avril au 12 novembre 1900, en lieu et place du vaste mais inconfortable Palais de l\u0027Industrie de 1855. « Monument consacré par la République à la gloire de l’art français », comme l\u0027indique le fronton de l’aile ouest (Palais d\u0027Antin), sa vocation originelle consiste à accueillir les grandes manifestations artistiques officielles de la capitale.\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t         Dans les années 1960, le Grand Palais, à l\u0027usage incertain et critiqué pour son architecture, était menacé de démolition. En effet, André Malraux, ministre de la culture, voulait un grand centre culturel à Paris, et avait accepté le projet de Le Corbusier: celui ci proposait tout simplement de raser l\u0027édifice et d\u0027en construire un nouveau à sa place. Ce fut la mort de l\u0027architecte peu de temps après qui empêcha la réalisation du projet.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t         Par arrêté du 12 juin 1975, la nef est classée au titre des monuments historiques. Un nouvel arrêté du 6 novembre 2000, protège le Grand Palais dans sa totalité.\r\n\u003C\/p\u003E",
+            "button_url": "http:\/\/parismuseescollections.paris.fr\/fr\/parcours-thematiques\/vivre-a-paris-au-xviiie-siecle",
+            "related_pois_idx": [
+                18126,
+                18127,
+                18128,
+                18129
+            ],
+            "player_type": 4,
+            "medias_roles": [
+                {
+                    "media_idx": 63506,
+                    "role": 14
+                },
+                {
+                    "media_idx": 63507,
+                    "role": 15
+                }
+            ]
+        },
+        {
+            "idx": 18515,
+            "cartel_number": "6",
+            "title": "Musée de l\u0027Armée",
+            "subtitle": "7ème arrondissement",
+            "long_text": "\u003Cp\u003E\r\n\t           Le musée fut créé en 1905 par la fusion du musée d’Artillerie et du musée historique de l’Armée qui étaient tous deux déjà situés dans l’hôtel des Invalides.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           Tombeau de Napoléon Ier à l’intérieur de l’église du Dôme.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           Le musée d’Artillerie est créé sous la Révolution et fut installé aux Invalides en 1871. Il a été constitué sur deux collections d’armement : la collection du garde-meuble de la Couronne et la collection des princes de Condé. Sont venus s’y ajouter des fonds provenant du Louvre, de l’artillerie de Vincennes, du château de Pierrefonds et des acquisitions ou dons.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           Le musée historique de l’Armée fut créé en 1896 par la société privée La Sabretache. Le peintre Édouard Detaille, qui la présidait, possédait ses propres collections et voulait créer un musée militaire similaire aux salles rétrospectives de l’Exposition universelle de Paris de 1889.\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           À l\u0027époque, les collections étaient alors installées et réparties en deux sections :\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t           - La Section des armes et armures, qui comportait la galerie Joffre (fortifications et tranchées), la salle Kléber (collections orientales), la salle Massena (infanterie), la salle Richelieu (armes de luxe), la salle Douay (infanterie coloniale et armements étrangers), la salle Murat (cavalerie), la salle Margueritte (cavalerie d’Afrique, artillerie et harnachement), la salle Gribeauval (artillerie), la galerie Pétain (Souvenirs de la Grande Guerre, drapeaux pris aux Allemands) et la galerie Foch (souvenirs des armées alliées).\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t \u003Cspan style=\u0022background-color: initial;\u0022\u003E- La Section Historique, qui comportait la salle Turenne ou “salle des Drapeaux” (s’y trouvaient plus de 700 drapeaux ou étendards2); la salle Bugeaud (collection Détaillé : tableaux, costumes militaires, armes), la salle Louis XIV (costumes et souvenirs de l’ancienne monarchie) la salle Napoléon, la salle La Fayette, la salle d’Aumale (campagnes coloniales), la salle Mac Mahon (guerres de 1825 à 1870), la salle Chanzy (1870 à 1914), la salle des médailles, la salle Charlemagne (collection d’uniformes grecs et romains et des Gaulois), la salle d’Assas, la salle La Tour d’Auvergne.\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "button_url": "https:\/\/smartapps1.typeform.com\/to\/PrH4cT",
+            "player_type": 5,
+            "medias_roles": [
+                {
+                    "media_idx": 64712,
+                    "role": 15
+                },
+                {
+                    "media_idx": 63732,
+                    "role": 15
+                },
+                {
+                    "media_idx": 64713,
+                    "role": 25
+                },
+                {
+                    "media_idx": 64714,
+                    "role": 25
+                },
+                {
+                    "media_idx": 64715,
+                    "role": 25
+                }
+            ]
+        },
+        {
+            "idx": 18460,
+            "title": "Smartapps",
+            "short_text": "Comme le Musée du Louvre et la Tour Eiffel \r\nDYNAMISEZ l\u0027expérience de vos visiteurs !",
+            "player_type": 0,
+            "medias_roles": [
+                {
+                    "media_idx": 63555,
+                    "role": 15
+                }
+            ]
+        },
+        {
+            "idx": 18461,
+            "title": "Gare du Nord",
+            "short_text": "La gare de Paris-Nord, dite aussi gare du Nord, constitue la tête de ligne parisienne du réseau ferroviaire desservant le nord de la France, ainsi que les pays limitrophes. Du fait de la proximité de la Belgique, des Pays-Bas, de la Grande-Bretagne et de l\u0027Allemagne, elle a toujours possédé une vocation internationale marquée, avant de voir son trafic régional se développer fortement. C\u0027est, hors Japon, la première gare du monde en termes de trafic2 ; elle a accueilli 262 millions de voyageurs en 2015.",
+            "player_type": 0,
+            "medias_roles": [
+                {
+                    "media_idx": 64521,
+                    "role": 15
+                }
+            ]
+        },
+        {
+            "idx": 18462,
+            "title": "Gare de l\u0027Est",
+            "short_text": "La gare de Paris-Est, dite aussi gare de l\u0027Est (initialement appelée gare de Strasbourg2), est l\u0027une des six grandes gares terminus du réseau de la SNCF à Paris. Elle se trouve dans le quartier Saint-Vincent-de-Paul, dans le 10e arrondissement, non loin de la gare du Nord. Sa façade ferme la perspective de l\u0027axe nord-sud percé par le baron Haussmann et constitué principalement par le boulevard de Strasbourg.",
+            "player_type": 0,
+            "medias_roles": [
+                {
+                    "media_idx": 64522,
+                    "role": 15
+                }
+            ]
+        },
+        {
+            "idx": 18463,
+            "title": "Métro Poissonière",
+            "player_type": 0,
+            "medias_roles": [
+                {
+                    "media_idx": 64523,
+                    "role": 15
+                }
+            ]
+        },
+        {
+            "idx": 18467,
+            "title": "Mr Fernand (boulangerie)",
+            "short_text": "MONSIEUR FERNAND, société par actions simplifiée est active depuis 7 ans.\r\nDomiciliée à PARIS 10 (75010), elle est spécialisée dans le secteur d\u0027activité de la boulangerie et boulangerie-pâtisserie. Son effectif est compris entre 20 et 49 salariés.\r\nSur l\u0027année 2015 elle réalise un chiffre d\u0027affaires de 1 852 500,00 €.\r\nLe total du bilan a augmenté de 99,37 % entre 2014 et 2015.\r\nSociete.com recense 3 établissements actifs et le dernier événement notable de cette entreprise date du 23-03-2016.\r\nOlivier DELANEAU, est président de la société MONSIEUR FERNAND.\r\n\r\nRead more at https:\/\/www.societe.com\/societe\/monsieur-fernand-520402934.html#yFYxLTfz0kKXoEop.99",
+            "player_type": 0,
+            "medias_roles": [
+                {
+                    "media_idx": 64540,
+                    "role": 15
+                }
+            ]
+        }
+    ],
+    "medias": [
+        {
+            "idx": 63510,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 640,
+            "full_height": 480,
+            "filename": "media63510"
+        },
+        {
+            "idx": 63511,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cstrong\u003E\u003Cem style=\u0022background-color: initial;\u0022\u003ELa Joconde\u003C\/em\u003E\u003C\/strong\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E, ou Portrait de \u003C\/span\u003E\u003Cem style=\u0022background-color: initial;\u0022\u003EMona Lisa\u003C\/em\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E, est un tableau de l\u0027artiste italien Léonard de Vinci, réalisé entre 1503 et 1506\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 743,
+            "full_height": 1155,
+            "filename": "media63511"
+        },
+        {
+            "idx": 63693,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\tPotrait de \u003Cspan style=\u0022background-color: initial;\u0022\u003ELeonardo Da Vinci\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 813,
+            "full_height": 1200,
+            "filename": "media63693"
+        },
+        {
+            "idx": 63694,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cstrong\u003E\u003C\/strong\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E\u003Cstrong\u003E\u003Cem\u003ELa Joconde\u003C\/em\u003E\u003C\/strong\u003E, ou Portrait de \u003Cem\u003EMona Lisa\u003C\/em\u003E, est un tableau de l\u0027artiste italien \u003Cstrong\u003ELéonard de Vinci\u003C\/strong\u003E, réalisé entre 1503 et 1506\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1000,
+            "full_height": 1488,
+            "filename": "media63694"
+        },
+        {
+            "idx": 63697,
+            "media_category": 6,
+            "filename": "media63697.mp4"
+        },
+        {
+            "idx": 63512,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 620,
+            "full_height": 414,
+            "filename": "media63512"
+        },
+        {
+            "idx": 63513,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cspan style=\u0022background-color: initial;\u0022\u003ELa Victoire de Samothrace, Louvre, Paris.\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1340,
+            "full_height": 1358,
+            "filename": "media63513"
+        },
+        {
+            "idx": 63514,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 911,
+            "full_height": 564,
+            "filename": "media63514"
+        },
+        {
+            "idx": 63515,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cem\u003E\u003Cstrong\u003ELa Vénus de Milo\u003C\/strong\u003E\u003C\/em\u003E est une célèbre sculpture grecque de la fin de l\u0027époque hellénistique qui pourrait représenter la déesse Aphrodite. Découverte en \u003Cem\u003E1820\u003C\/em\u003E sur l\u0027île de Milos, d\u0027où son nom, elle est actuellement conservée au\u003Cem\u003E musée du Louvre, à Paris\u003C\/em\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 640,
+            "full_height": 480,
+            "filename": "media63515"
+        },
+        {
+            "idx": 63696,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t\u003Cspan style=\u0022background-color: initial;\u0022\u003ELa Vénus de Milo, Louvre, Paris\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1944,
+            "full_height": 2592,
+            "filename": "media63696"
+        },
+        {
+            "idx": 63732,
+            "media_category": 5,
+            "filename": "media63732.m4a"
+        },
+        {
+            "idx": 63520,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 1600,
+            "full_height": 1065,
+            "filename": "media63520"
+        },
+        {
+            "idx": 63521,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cem\u003E\u003Cstrong\u003E\u003C\/strong\u003E\u003C\/em\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E\u003Cem\u003E\u003Cstrong\u003ELa Liberté guidant le peuple\u003C\/strong\u003E\u003C\/em\u003E est une huile sur toile d\u0027\u003Cstrong\u003EEugène Delacroix\u003C\/strong\u003E réalisée en \u003Cem\u003E1830\u003C\/em\u003E\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 2000,
+            "full_height": 1602,
+            "filename": "media63521"
+        },
+        {
+            "idx": 63553,
+            "media_category": 9,
+            "filename": "media63553"
+        },
+        {
+            "idx": 63734,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 500,
+            "full_height": 500,
+            "filename": "media63734"
+        },
+        {
+            "idx": 63522,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 260,
+            "full_height": 177,
+            "filename": "media63522"
+        },
+        {
+            "idx": 63523,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cstrong\u003E\u003C\/strong\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E\u003Cstrong\u003E\u003Cem\u003ELe Radeau de La Méduse\u003C\/em\u003E\u003C\/strong\u003E est une peinture à l\u0027huile sur toile, réalisée \u003Cem\u003Eentre 1818 et 1819\u003C\/em\u003E par le peintre et lithographe romantique français \u003Cstrong\u003EThéodore Géricault\u003C\/strong\u003E\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": false,
+            "full_width": 1200,
+            "full_height": 819,
+            "filename": "media63523"
+        },
+        {
+            "idx": 63499,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 550,
+            "full_height": 366,
+            "filename": "media63499"
+        },
+        {
+            "idx": 63500,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t En huit siècles d’existence, le Louvre a été marqué par de nombreux courants architecturaux, de la forteresse médiévale du XIIe siècle à la pyramide de verre de Pei (1989). Dernier ajout : les architectes Mario Bellini et Rudy Ricciotti ont signé le nouvel écrin accueillant les Arts de l’Islam, une verrière ondulante recouvrant la cour Visconti et inondant de lumière les 2 800 m² du nouveau département.\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1920,
+            "full_height": 1200,
+            "filename": "media63500"
+        },
+        {
+            "idx": 63691,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cspan style=\u0022background-color: initial;\u0022\u003E\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t Chaque passage dans la capitale mérite une visite du Louvre, tant le plus grand musée de Paris recèle de trésors. Il rassemble des œuvres de l’art occidental du Moyen Âge à 1848, des civilisations antiques orientales, égyptiennes, grecques, étrusques, romaines, des arts graphiques et des arts de l’Islam.\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1700,
+            "full_height": 765,
+            "filename": "media63691"
+        },
+        {
+            "idx": 63692,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t De salle en salle, l’ancien palais royal dévoile ses chefs-d’oeuvre : la Joconde, Le Radeau de la Méduse, la Vénus de Milo, La Victoire de Samothrace… Au total, quelque 35 000 œuvres !\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 940,
+            "full_height": 701,
+            "filename": "media63692"
+        },
+        {
+            "idx": 66365,
+            "media_category": 1,
+            "no_zoom": false,
+            "full_width": 1280,
+            "full_height": 2072,
+            "filename": "media66365"
+        },
+        {
+            "idx": 63501,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 1280,
+            "full_height": 867,
+            "filename": "media63501"
+        },
+        {
+            "idx": 63502,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t     Musée d\u0027\u003Cspan style=\u0022background-color: initial;\u0022\u003EOrsay, Paris.\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 355,
+            "full_height": 540,
+            "filename": "media63502"
+        },
+        {
+            "idx": 63503,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 604,
+            "full_height": 389,
+            "filename": "media63503"
+        },
+        {
+            "idx": 63504,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cstrong\u003EM\u003C\/strong\u003Eusée des \u003Cstrong\u003EA\u003C\/strong\u003Erts \u003Cstrong\u003EM\u003C\/strong\u003Eodernes de la Ville de \u003Cem\u003EParis\u003C\/em\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 550,
+            "full_height": 412,
+            "filename": "media63504"
+        },
+        {
+            "idx": 63695,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 1864,
+            "full_height": 1263,
+            "filename": "media63695"
+        },
+        {
+            "idx": 63505,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 3648,
+            "full_height": 2432,
+            "filename": "media63505"
+        },
+        {
+            "idx": 63552,
+            "media_category": 9,
+            "filename": "media63552"
+        },
+        {
+            "idx": 63700,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t\u003Cspan style=\u0022background-color: initial;\u0022\u003ELe Petit Palais, Paris\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1024,
+            "full_height": 681,
+            "filename": "media63700"
+        },
+        {
+            "idx": 63733,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 132,
+            "full_height": 104,
+            "filename": "media63733"
+        },
+        {
+            "idx": 63506,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 630,
+            "full_height": 405,
+            "filename": "media63506"
+        },
+        {
+            "idx": 63507,
+            "media_category": 1,
+            "no_zoom": false,
+            "full_width": 980,
+            "full_height": 735,
+            "filename": "media63507"
+        },
+        {
+            "idx": 64712,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 1071,
+            "full_height": 722,
+            "filename": "media64712"
+        },
+        {
+            "idx": 64713,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cb style=\u0022background-color: initial;\u0022\u003ELe musée d’Artillerie\u003C\/b\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E est créé sous la Révolution et fut installé aux Invalides en 1871. Il a été constitué sur deux collections d’armement : la collection du garde-meuble de la Couronne et la collection des princes de Condé. Sont venus s’y ajouter des fonds provenant du Louvre, de l’artillerie de Vincennes, du château de Pierrefonds et des acquisitions ou dons.\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1024,
+            "full_height": 768,
+            "filename": "media64713"
+        },
+        {
+            "idx": 64714,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cstrong\u003E\u003C\/strong\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E\u003Cstrong\u003ELe musée historique de l’Armée\u003C\/strong\u003E fut créé en 1896 par la société privée La Sabretache. Le peintre Édouard Detaille, qui la présidait, possédait ses propres collections et voulait créer un musée militaire similaire aux salles rétrospectives de l’Exposition universelle de Paris de 1889.\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 3072,
+            "full_height": 2304,
+            "filename": "media64714"
+        },
+        {
+            "idx": 64715,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cspan style=\u0022background-color: initial;\u0022\u003EÀ l\u0027époque, les collections étaient alors installées et réparties en deux sections :\u003C\/span\u003E\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t - La Section des armes et armures, qui comportait la galerie Joffre (fortifications et tranchées), la salle Kléber (collections orientales), la salle Massena (infanterie), la salle Richelieu (armes de luxe), la salle Douay (infanterie coloniale et armements étrangers), la salle Murat (cavalerie), la salle Margueritte (cavalerie d’Afrique, artillerie et harnachement), la salle Gribeauval (artillerie), la galerie Pétain (Souvenirs de la Grande Guerre, drapeaux pris aux Allemands) et la galerie Foch (souvenirs des armées alliées).\r\n\u003C\/p\u003E\r\n\u003Cp\u003E\r\n\t - La Section Historique, qui comportait la salle Turenne ou “salle des Drapeaux” (s’y trouvaient plus de 700 drapeaux ou étendards); la salle Bugeaud (collection Détaillé : tableaux, costumes militaires, armes), la salle Louis XIV (costumes et souvenirs de l’ancienne monarchie) la salle Napoléon, la salle La Fayette, la salle d’Aumale (campagnes coloniales), la salle Mac Mahon (guerres de 1825 à 1870), la salle Chanzy (1870 à 1914), la salle des médailles, la salle Charlemagne (collection d’uniformes grecs et romains et des Gaulois), la salle d’Assas, la salle La Tour d’Auvergne.\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1200,
+            "full_height": 761,
+            "filename": "media64715"
+        },
+        {
+            "idx": 66358,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cb style=\u0022background-color: initial;\u0022\u003EThe Main Courtyard\u003C\/b\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E The Main Courtyard is the centre of the Hôtel National des Invalides and displays a large part of the artillery collections, gathered during the French Revolution. The collection traces 200 years of the history of French field artillery and enables visitors to discover how the equipment was manufactured, its role and the history of great French artillerymen.\r\n\r\nContains:\r\n\r\n60 French classical bronze cannons\r\nA dozen howitzers and mortars\r\n\u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1024,
+            "full_height": 768,
+            "filename": "media66358"
+        },
+        {
+            "idx": 66360,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t \u003Cstrong\u003E\u003C\/strong\u003E\u003Cspan style=\u0022background-color: initial;\u0022\u003E\u003Cstrong\u003EThe Musée de l\u0027Armée\u003C\/strong\u003E was created in 1905 with the merger of the Musée d\u0027Artillerie and the Musée Historique de l\u0027Armée. The Musée de l\u0027artillerie (Museum of Artillery - \u0022artillerie\u0022 meaning all things related to weapons) was founded in 1795 in the aftermath of the French Revolution, and expanded under Napoleon. It was moved into the Hôtel des Invalides in 1871, immediately following the Franco-Prussian War and the proclamation of the Third Republic. Another institution called the Musée historique de l\u0027Armée (Historical Museum of the Army) was created in 1896 following the Paris World Fair. The two institutions merged in 1905 within the space of the former Musée de l\u0027Artillerie. Today, it holds 500,000 artifacts, including weapons, armour, artillery, uniforms, emblems and paintings, exhibited in an area of 12,000 m². The permanent collections are organised into \u0022historical collections\u0022, representing a chronological tour from ancient times through the end of World War II.  \u003C\/span\u003E\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 3072,
+            "full_height": 2304,
+            "filename": "media66360"
+        },
+        {
+            "idx": 66362,
+            "media_category": 1,
+            "summary": "\u003Cp\u003E\r\n\t\u003Cspan style=\u0022background-color: initial;\u0022\u003EDôme des Invalide\u003C\/span\u003E The Dôme des Invalides is the emblem of the Hôtel National des Invalides and an unmissable monument in the Parisian landscape. Contains: The Dome Church, The Tomb of Napoleon I\r\n\u003C\/p\u003E",
+            "no_zoom": true,
+            "full_width": 1200,
+            "full_height": 761,
+            "filename": "media66362"
+        },
+        {
+            "idx": 63555,
+            "media_category": 1,
+            "no_zoom": false,
+            "full_width": 1280,
+            "full_height": 2072,
+            "filename": "media63555"
+        },
+        {
+            "idx": 64521,
+            "media_category": 1,
+            "no_zoom": false,
+            "full_width": 1024,
+            "full_height": 640,
+            "filename": "media64521"
+        },
+        {
+            "idx": 64522,
+            "media_category": 1,
+            "no_zoom": false,
+            "full_width": 760,
+            "full_height": 490,
+            "filename": "media64522"
+        },
+        {
+            "idx": 64523,
+            "media_category": 1,
+            "no_zoom": false,
+            "full_width": 1920,
+            "full_height": 1040,
+            "filename": "media64523"
+        },
+        {
+            "idx": 64540,
+            "media_category": 1,
+            "no_zoom": false,
+            "full_width": 600,
+            "full_height": 400,
+            "filename": "media64540"
+        },
+        {
+            "idx": 63508,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 4323,
+            "full_height": 2483,
+            "filename": "media63508"
+        },
+        {
+            "idx": 63509,
+            "media_category": 1,
+            "no_zoom": true,
+            "full_width": 1910,
+            "full_height": 1380,
+            "filename": "media63509"
+        }
+    ]
+}
