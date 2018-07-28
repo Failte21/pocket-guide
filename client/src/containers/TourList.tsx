@@ -4,6 +4,7 @@ import {bindActionCreators, Dispatch} from "redux";
 import {updateTour} from "../actions/tour";
 import {ApplicationState} from "../reducers";
 import {Tour} from "../reducers/tour";
+import Header from "../components/Header";
 
 const mapStateToProps = (state: ApplicationState) => ({tour: state.tour});
 
@@ -18,6 +19,7 @@ class TourList extends React.Component {
         const tour:Tour = this.props['tour'];
         return (
             <div>
+                <Header title='List' />
                 <h1>{tour.title}</h1>
             </div>
         )
