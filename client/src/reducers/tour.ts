@@ -23,7 +23,9 @@ export interface MediasRole {
     role: number;
 }
 
-const initialState:Partial<Tour> = {};
+const initialState:Partial<Tour> = {
+    pois: []
+};
 
 export const tour = (state = initialState, action: Action) => {
     switch (action.type) {
