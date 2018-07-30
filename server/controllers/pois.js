@@ -36,7 +36,8 @@ exports.retrievePoiImage = (req, res) => {
         res.status(404).send(`Could not find image for poi ${poi_id} with role ${role}`);
     }
     const formattedNames = medias.map(media => `media${media.media_idx}_L.jpg`);
-    retrieveAndSendImageFromName(formattedNames, res, 0);
+    //Todo: remove after testing the loading effect
+    setTimeout(() => retrieveAndSendImageFromName(formattedNames, res, 0), 1000);
 }
 
 const retrieveAndSendImageFromName = (formattedNames, res, i) => {
