@@ -5,7 +5,7 @@ import {updateTour} from "../actions/tour";
 import {ApplicationState} from "../reducers";
 import {Tour} from "../reducers/tour";
 import Header from "../components/Header";
-import PoiPreview from "../components/PoiPreview";
+import PoiPreview from "./PoiPreview";
 
 type HeaderProps = {
     tour: Tour,

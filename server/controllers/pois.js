@@ -11,6 +11,13 @@ exports.retrievePoi = (req, res) => {
     return res.status(200).json(poi);
 }
 
+const base64_encode = path => {
+    // read binary data
+    var bitmap = fs.readFileSync(path);
+    // convert binary data to base64 encoded string
+    return new Buffer(bitmap).toString('base64');
+}
+
 exports.retrievePoiImage = (req, res) => {
     const { poi_id } = req.params;
     const { role } = req.query;
@@ -40,7 +47,8 @@ const retrieveAndSendImageFromName = (formattedNames, res, i) => {
     const media_path = path.join(__dirname, '../medias', `${formattedName}`);
     fs.exists(media_path, exists => {
         if (exists) {
-            return res.sendFile(media_path);
+            const image = `data:image/jpg;base64,${base64_encode(media_path)}`;
+            return res.end(image);
         }
         retrieveAndSendImageFromName(formattedNames, res, i + 1);
     })
