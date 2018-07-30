@@ -7,6 +7,7 @@ import {updateDetail} from "../actions/detail";
 import Image, {ImgSize} from "../components/Image";
 import './style/poiDetail.css';
 import Header from "../components/Header";
+import PoiInfos from "../components/PoiInfos";
 
 const mapStateToProps = (state: ApplicationState) => ({detail: state.detail});
 
@@ -19,6 +20,12 @@ type PoiDetailProps = {
 
 class PoiDetail extends React.Component<PoiDetailProps> {
 
+    state = {
+        hasInfoOpen: false
+    };
+
+    triggerInfos = () => this.setState({hasInfoOpen: !this.state.hasInfoOpen});
+
     componentDidMount() {
         this.props.updateDetail(this.props['match']['params']['poi_id']);
     }
@@ -26,9 +33,15 @@ class PoiDetail extends React.Component<PoiDetailProps> {
     render () {
         const { detail } = this.props;
         return detail ? (
-            <div className={'poi-detail'}>
+            <div>
                 <Header title={detail.title} />
-                <Image image={detail.sm_img} size={ImgSize.LG} />
+                <div className={'content poi-detail'}>
+                    <Image image={detail.sm_img} size={ImgSize.LG} triggerInfos={this.triggerInfos}/>
+                    <p style={{padding: "5px"}}>
+                        {detail.short_text}
+                    </p>
+                </div>
+                {this.state.hasInfoOpen && <PoiInfos infos={detail.long_text} triggerInfos={this.triggerInfos}/>}
             </div>
         ) : <div />
     }

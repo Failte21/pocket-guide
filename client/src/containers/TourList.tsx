@@ -26,8 +26,10 @@ class TourList extends React.Component<HeaderProps> {
         return (
             <div>
                 <Header title='List' />
-                <h3>{tour.title}</h3>
-                {tour.pois.map(poi => <PoiPreview poi={poi} key={poi.idx}/>)}
+                <div className={'content'}>
+                    <h3>{tour.title}</h3>
+                    {tour.pois.map(poi => <PoiPreview poi={poi} key={poi.idx}/>)}
+                </div>
             </div>
         )
     }
