@@ -5,7 +5,7 @@ import {bindActionCreators, Dispatch} from "redux";
 import {connect} from "react-redux";
 import {updateSmImg} from "../actions/poi";
 import "./style/poiPreview.css";
-import Image from "../components/Image";
+import Image, {ImgSize} from "../components/Image";
 import {Link} from "react-router-dom";
 
 type PoiPreviewProps = {
@@ -27,7 +27,7 @@ class PoiPreview extends React.Component<PoiPreviewProps> {
             <Link to={`/pois/${poi.idx}`}>
                 <Card className={'poi-preview'}>
                     <div className={'poi-section'}>
-                        <Image image={poi.sm_img}/>
+                        <Image image={poi.sm_img} size={ImgSize.SM}/>
                     </div>
                     <div className={'poi-section'}>
                         <h4>{poi.title}</h4>

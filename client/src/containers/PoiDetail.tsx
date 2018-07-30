@@ -4,6 +4,9 @@ import {connect} from "react-redux";
 import {bindActionCreators, Dispatch} from "redux";
 import {ApplicationState} from "../reducers";
 import {updateDetail} from "../actions/detail";
+import Image, {ImgSize} from "../components/Image";
+import './style/poiDetail.css';
+import Header from "../components/Header";
 
 const mapStateToProps = (state: ApplicationState) => ({detail: state.detail});
 
@@ -23,10 +26,11 @@ class PoiDetail extends React.Component<PoiDetailProps> {
     render () {
         const { detail } = this.props;
         return detail ? (
-            <div>
-                {detail.title}
+            <div className={'poi-detail'}>
+                <Header title={detail.title} />
+                <Image image={detail.sm_img} size={ImgSize.LG} />
             </div>
-        ) : <div>...</div>
+        ) : <div />
     }
 }
 
