@@ -6,6 +6,7 @@ import {connect} from "react-redux";
 import {updateSmImg} from "../actions/poi";
 import "./style/poiPreview.css";
 import Image from "../components/Image";
+import {Link} from "react-router-dom";
 
 type PoiPreviewProps = {
     poi: POI,
@@ -22,17 +23,18 @@ class PoiPreview extends React.Component<PoiPreviewProps> {
 
     render() {
         const { poi } = this.props;
-        console.log(poi.sm_img);
         return (
-            <Card className={'poi-preview'}>
-                <div className={'poi-section'}>
-                    <Image image={poi.sm_img}/>
-                </div>
-                <div className={'poi-section'}>
-                    <h4>{poi.title}</h4>
-                    <h5>{poi.subtitle}</h5>
-                </div>
-            </Card>
+            <Link to={`/pois/${poi.idx}`}>
+                <Card className={'poi-preview'}>
+                    <div className={'poi-section'}>
+                        <Image image={poi.sm_img}/>
+                    </div>
+                    <div className={'poi-section'}>
+                        <h4>{poi.title}</h4>
+                        <h5>{poi.subtitle}</h5>
+                    </div>
+                </Card>
+            </Link>
         )
     }
 }
